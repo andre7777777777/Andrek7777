@@ -9,7 +9,7 @@ from aiogram.types import Message
 from aiogram import Bot, Dispatcher, executor, types
 
 
-API_TOKEN = '6055954803:AAH0tDtbUhGRX1eC3aWFU09_bbfzY13zScM'
+API_TOKEN = '5879748147:AAGK8RabJ6wdzwI-PUKOcIwizjNa7E2SFBc'
 
 
 bot = Bot(token=API_TOKEN)
